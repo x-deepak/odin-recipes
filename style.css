@@ -1,0 +1,19 @@
+*{
+    color: white;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+
+
+
+
+.home{
+    background-color: hsl(183, 78%, 23%);
+}
+
+.recipes{
+    background-color: hsl(254, 85%, 22%);
+}
